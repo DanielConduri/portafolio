@@ -18,7 +18,7 @@ export const MainImage = () => {
         height={1080}
       
         priority
-        className="w-full h-auto object-contain opacity-70 rounded rounded-sm"
+        className="w-full h-auto object-contain opacity-70"
         quality={100}
         sizes="100vw"
 

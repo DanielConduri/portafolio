@@ -8,10 +8,10 @@ export const Title = () => {
             <h1 className="text-7xl sm:text-8xl text-center">
                 Studio</h1> */}
 
-                <h1 className="text-6xl sm:text-8xl text-center font-bold">SOFTWARE</h1>
-                <h1 className="flex text-6xl sm:text-8xl  text-center font-bold">DEVELOPER</h1>
-                <h1 className="text-6xl sm:text-8xl text-center font-bold">SINCE</h1>
-                <h1 className="text-6xl sm:text-8xl text-center text-emerald-500 font-bold">2021</h1>
+                <h1 className="mt-2 text-4xl sm:text-8xl text-center font-bold">SOFTWARE</h1>
+                <h1 className="flex text-5xl sm:text-8xl  text-center font-bold">DEVELOPER</h1>
+                <h1 className="text-5xl sm:text-8xl text-center font-bold">SINCE</h1>
+                <h1 className="text-4xl sm:text-8xl text-center text-emerald-500 font-bold">2021</h1>
             </div>
         </div>
 
