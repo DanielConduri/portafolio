@@ -1,6 +1,6 @@
-import { MainImage } from "@/app/components/MainImage"
-import { Projects } from "@/app/components/Projects"
-import { Title } from "@/app/components/Title"
+// import { MainImage } from "@/app/components/MainImage"
+// import { Projects } from "@/app/components/Projects"
+// import { Title } from "@/app/components/Title"
 
 
 export default function Cartlayout ({ children }: {

@@ -1,7 +1,7 @@
-import Image from "next/image";
+// import Image from "next/image";
 
 
-import { Title } from "../components/Title";
+// import { Title } from "../components/Title";
 import { MainImage } from "../components/MainImage";
 import { Projects } from "../components/Projects";
 
